@@ -1,0 +1,55 @@
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+/* Show it is fixed to the top */
+
+.register-login {
+	background-color: rgba(0, 0, 109, 0.904);
+	padding-bottom: 50%;
+}
+
+.navbar {
+	background-color: rgb(175, 246, 255);
+	width: 100%;
+	padding: 0;
+	height: 60px;
+}
+
+.tombol {
+	background-color: rgba(0, 0, 109, 0.904);
+}
+
+.shop-now {
+	background-color: rgba(0, 0, 109, 0.904);
+	color: white;
+}
+
+.p-now {
+	background-color: rgba(0, 0, 109, 0.904);
+	color: white;
+}
+
+.btn-now {
+	background-color: white;
+	color: rgba(0, 0, 109, 0.904);
+}
+
+.kotak {
+	background-color: rgb(175, 246, 255);
+}
+
+.container {
+	padding-top: 4.5rem;
+}
